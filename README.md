@@ -63,6 +63,4 @@ React Motion
 
 React Toastify
 
-Responsive Design
 
-(Optional: React, Bootstrap, or any framework you've used)
