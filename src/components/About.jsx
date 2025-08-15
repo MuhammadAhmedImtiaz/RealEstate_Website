@@ -28,10 +28,10 @@ export const About = () => {
                         </div>
 
                     </div>
-                    <p className='my-10 max-w-lg '>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Corporis numquam animi minus exercitationem veritatis hic pariatur itaque deserunt, 
-                    veniam placeat esse debitis aliquid obcaecati officiis, 
-                    soluta et, quibusdam explicabo repellat? </p>
+                    <p className='my-10 max-w-lg '>We craft spaces where lives flourish. 
+                        With a decade of expertise, we merge innovation and integrity to deliver homes 
+                        that inspire—tailored to your dreams and built for tomorrow’s memories. 
+                     </p>
                     <button className='bg-blue-600 text-white px-8 py-2 rounded '>Learn more</button>
                 </div>
             </div>

@@ -7,10 +7,10 @@ export const Footer = () => {
         <div className='container mx-auto flex flex-col md:flex-row justify-between items-start '>
             <div className='w-full md:w-1/3 mb-auto md:mb-0 '>
                 <img src={assets.logo_dark} alt="" />
-                <p className='text-gray-400 mt-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                Qui aut libero sequi deserunt ea atque ab dignissimos nihil 
-                hic expedita odit sunt, laboriosam animi autem nam perferendis 
-                aspernatur illo quis?</p>
+                <p className='text-gray-400 mt-4'>We transform real estate dreams into reality. 
+                    With trusted expertise and personalized service, we guide you home—where every detail 
+                    reflects your vision and our commitment to excellence.
+                </p>
             </div>
             <div className='w-full md:w-1/5 mb-8 md:mb-0'>
                 <h3 className='text-white text-lg font-bold mb-4'>Company</h3>
@@ -34,7 +34,7 @@ export const Footer = () => {
             </div>
         </div>
         <div className='border-t border-gray-700 py-4 mt-10 text-center text-gray-500'>
-        Copyright 2024 © GreatStack All Right Reserved
+        Copyright 2025 © GreatStack All Right Reserved
         </div>
     </div>
   )
